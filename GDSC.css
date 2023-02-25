@@ -1,0 +1,82 @@
+.yellow{
+    color:rgb(108, 107, 107);
+}
+.blue{
+    color: rgb(108, 107, 107);
+}
+.green{
+    color: rgb(108, 107, 107);
+}
+.red{
+    color:rgb(108, 107, 107)
+}
+.new p{
+    display: inline-block;
+
+}
+.bg{
+    background-color: brown;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+     
+}
+.gdsc{
+    font-size: xx-large;
+ 
+    
+}
+.whole{
+    background-color: rgb(0, 0, 0);
+    margin: 35px 35px 35px;
+
+
+}
+.li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 90px;
+
+}
+.a {
+    border: 2px solid;
+    color: rgb(255, 255, 255);
+    float: right;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: inline-block;
+    margin: 5px;
+    
+}
+.b{
+    border: 2px solid;
+    color: rgb(255, 255, 255);
+    float: right;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: inline-block;
+    margin: 5px;
+}
+.c{
+    border: 2px solid;
+    color: rgb(255, 255, 255);
+    float: right;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: inline-block;
+    margin: 5px;
+}
+.div{
+    color: white;
+}
+.li :hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+.we{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 5px;
+}
+.yo{
+    margin-top: 59px;
+}
